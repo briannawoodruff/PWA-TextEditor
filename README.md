@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description:
-  ### Deployed: <br /><br />
+  ### Deployed: https://another-jate-pwa.herokuapp.com/ <br /><br />
   ***This application was created from existing code and was done as a code-along in class. It was approved to be turned in.*** <br />  <br /> This is a PWA Text Editor that runs in a browser with or without internet. A user can install a single-page of this application and it uses data persistence techniques with IndexedDB with the `idb` package. 
   <br />
 
@@ -19,7 +19,7 @@
   <br />
 
    ## Usage:
-   This application is deployed here: 
+   This application is deployed here: https://another-jate-pwa.herokuapp.com/
   <br />
 
   ## License: 
